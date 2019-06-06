@@ -6,4 +6,5 @@ Made with [Bulma](hhttps://bulma.io)
 
 
 ---
-* run `npm start` to compile files and manually open  index.html 
+* run `npm start` to compile files
+* open index.html 
